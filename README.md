@@ -1,6 +1,6 @@
-# EmplyoeeDiectoryAppReactNative
+# contactsApp ReactNative
 
-## After Cloning the project, cd into it and just follow the commands...
+##  Clone the code
 
 ### npm install
 
